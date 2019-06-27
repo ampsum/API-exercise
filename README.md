@@ -1,1 +1,2 @@
-# labb3
+# API-exercise
+Code for a school assignment.
